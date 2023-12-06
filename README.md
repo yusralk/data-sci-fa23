@@ -1,4 +1,4 @@
-# data-sci-fa23
+# Understanding Transportation Modes in the United States
 Project for CS577, identifying factors that influence transportation modes in America
 
 This was an in class project for CS577 at San Diego State University and it is a culmination of all the techniques learning while taking the course.
